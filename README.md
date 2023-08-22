@@ -107,7 +107,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/nathenial-buckley/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  bnathenial-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -115,7 +115,7 @@
 
 <li>
 <a href="bnathenial@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  "bnathenial-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  bnathenial-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
